@@ -1,6 +1,10 @@
 package org.four;
 
 public class C2 {
+	
+	private void love() {
+      System.out.println("output yes.....");
+	}
 
 	public static void main(String[] args) {
 
@@ -12,6 +16,8 @@ public class C2 {
 
 			System.out.println("Not Elgible for that job");
 		}
+		
+		
 
 	}
 
